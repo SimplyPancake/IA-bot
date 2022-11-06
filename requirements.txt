@@ -1,0 +1,4 @@
+jsonrpcclient[requests]
+requests
+discord.py
+python-dotenv
